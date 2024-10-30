@@ -1,0 +1,14 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1{
+    font-family: 'lobster', cursive;
+    font-size: 5em;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 150px;
+    background-image: url(furso.jpg);
+    background-size: cover;
+    background-position: center;
+}

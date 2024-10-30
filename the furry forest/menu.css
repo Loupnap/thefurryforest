@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(186, 142, 228);
+}
+
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 2.5em;
+}
+
+
+
+
+h1{
+    font-family: 'lobster', cursive;
+    font-size: 5em;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 150px;
+    background-image: url("logo.png");
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+}
+
+
+.notre {
+    color: blue;
+}
+
+input,
+textarea {
+    padding: 10px;
+    border: 1px solid black;
+    outline: none;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+fieldset{
+    background-color: rgb(217, 255, 0);
+}
+
+legend{
+    background-color: beige;
+}
+
+button {
+    font-family: 'lobster' cursive;
+    font-size: 2em;
+    text-align: 2em;
+    border: 2px solid wheat;
+    border-radius: 30px;
+}
+
+img:hover {
+    opacity: 0.5;
+}
